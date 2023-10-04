@@ -1,6 +1,7 @@
-how-to-remove-git-submodules.md; How to remove git submodules?; GRoot; 2023-01-01; devops; bash, git
-disable-git-auto-line-feed-lf.md; Disable git auto line feed LF; GRoot; 2022-12-01; devops; bash, git
-git-fatal-unsafe-repository.md; Git … fatal: unsafe repository; GRoot; 2022-11-01; devops; bash, git
-git-cheat-change-remote.md; Git Cheat: change remote; GRoot; 2022-10-01; devops; bash, git, ssh
-git-cheat-remove-big-files.md; Git Cheat: remove BIG files; GRoot; 2022-09-01; devops; bash, git
-git-ssh-issue-troubleshooting.md; Git SSH issue troubleshooting; GRoor; 2022-08-01; devops; bash, git, github, ssh
+how-to-remove-git-submodules.md; How to remove git submodules?; GRoot; 2023-01-01; DEVOPS; bash, git
+disable-git-auto-line-feed-lf.md; Disable git auto line feed LF; GRoot; 2022-12-01; DEVOPS; bash, git
+git-fatal-unsafe-repository.md; Git … fatal: unsafe repository; GRoot; 2022-11-01; DEVOPS; bash, git
+git-cheat-change-remote.md; Git Cheat: change remote; GRoot; 2022-10-01; DEVOPS; bash, git, ssh
+git-cheat-remove-big-files.md; Git Cheat: remove BIG files; GRoot; 2022-09-01; DEVOPS; bash, git
+git-ssh-issue-troubleshooting.md; Git SSH issue troubleshooting; GRoot; 2022-08-01; DEVOPS; bash, git, github, ssh
+typo3-fluid.md; Typo3 Fluid; GRoot; 2022-05-01; ENTWICKLUNG; composer, fluid, github, php, typo3
