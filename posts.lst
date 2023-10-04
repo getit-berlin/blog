@@ -3,3 +3,4 @@ disable-git-auto-line-feed-lf.md; Disable git auto line feed LF; GRoot; 2022-12-
 git-fatal-unsafe-repository.md; Git … fatal: unsafe repository; GRoot; 2022-11-01; devops; bash, git
 git-cheat-change-remote.md; Git Cheat: change remote; GRoot; 2022-10-01; devops; bash, git, ssh
 git-cheat-remove-big-files.md; Git Cheat: remove BIG files; GRoot; 2022-09-01; devops; bash, git
+git-ssh-issue-troubleshooting.md; Git SSH issue troubleshooting; GRoor; 2022-08-01; devops; bash, git, github, ssh
