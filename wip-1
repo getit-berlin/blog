@@ -1,0 +1,9 @@
+Nach dem erstellen der :
+
+- DB Container auf Basis von mariadb:10.1.48
+- PHP Container auf Basis von php:7.4-fpm
+- SCP Container auf Basis von atmoz/sftp
+
+benötigen wir noch einen Nginx Container der zum Host Port 80 freigibt.
+
+Die Konfiguration für den Nginx Container inkl. der Anhängigkeiten zu den Containern aus Part I-III sieht wiefolgt aus:
