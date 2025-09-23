@@ -1,8 +1,11 @@
-Veröffentlicht am: 2014-11-21 
+## Projetex VM
 
-Autor: gRoot
+von gRoot
 
-Kategorie: Projetex
+am 2014-12-27
 
-Tag: Projetex
+in Projetex
 
+Install you projetex Server in a VM. It is pitty easy.
+
+tag Projetex
