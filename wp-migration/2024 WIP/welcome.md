@@ -1,7 +1,9 @@
-Veröffentlicht am: 21. November 2014
+## Welcome to Getit-Berlin
 
-Autor: gRoot
+von gRoot
 
-Kategorie: Über uns
+am 2014-11-21
+
+in Über uns
 
 Willkommen bei Getit-Berlin und unserer neuen Internetpräsenz.
