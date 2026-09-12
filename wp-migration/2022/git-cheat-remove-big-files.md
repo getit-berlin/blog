@@ -10,9 +10,11 @@ If you commit very big files and want to remove them from the git repo then use 
 
 i.e. if you want to remove `system/backup_V1.sql`
 
-`git filter-branch --force --index-filter \`  
-`'git rm --cached --ignore-unmatch system/backup_V1.sql' \`  
-`--prune-empty --tag-name-filter cat -- --all`  
+```
+git filter-branch --force --index-filter \
+'git rm --cached --ignore-unmatch system/backup_V1.sql' \
+--prune-empty --tag-name-filter cat -- --all
+```
 
 After removing the file you have to overwrite the remote repo.
 

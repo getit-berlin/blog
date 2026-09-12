@@ -10,7 +10,9 @@ Hier ein kleines Git Schnipsel zum deaktivieren der LF Korrektur. Manchmal verur
 
 Die Einstellung wird über den Parameter `–global` für alle Repositories festgelegt.
 
-`git config --global core.autocrlf false`  
-`git config --global core.eol lf`
+```
+git config --global core.autocrlf false
+git config --global core.eol lf
+```
 
 tag bash git

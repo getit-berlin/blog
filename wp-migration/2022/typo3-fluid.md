@@ -13,31 +13,37 @@ Das Typo3 CMS verwendet Fluid als Template Engine. Diese Engine kann einfach auc
 
 Wie integriert man Typo3/Fluid in ein standalone Projekt ohne Typo3 CMS? Wiefolgt:
 
-`composer require typo3fluid/fluid`  
-`composer install`  
+```
+composer require typo3fluid/fluid
+composer install
+```
 
 Nach dem einfügen des Autoloaders wird dem standalone Projekt nur noch das TempalateView Objekt hinzugefügt:
 
-`use TYPO3Fluid\Fluid\View\TemplateView;`  
+```
+use TYPO3Fluid\Fluid\View\TemplateView;
 
-`view = new TemplateView;`
+view = new TemplateView;
+```
 
 Es müssen noch verschiedene Pfade gesetzt werden. Außerdem sind bestimmte Directories notwenig:
 
-`site_package`  
-`└── Resources`  
-`    ├── Private`  
-`    │   ├── Language`  
-`    │   ├── Layouts`  
-`    │   │   └── Page`  
-`    │   ├── Partials`  
-`    │   │   └── Page`  
-`    │   └── Templates`  
-`    │       └── Page`  
-`    └── Public`  
-`        ├── Css`  
-`        ├── Images`  
-`        └── JavaScript`
+```
+site_package
+└── Resources
+    ├── Private
+    │   ├── Language
+    │   ├── Layouts
+    │   │   └── Page
+    │   ├── Partials
+    │   │   └── Page
+    │   └── Templates
+    │       └── Page
+    └── Public
+        ├── Css
+        ├── Images
+        └── JavaScript
+```
 
 Eine Php Beispiel-Klasse in dem Typo3/Fluid in einer standalone Umgebung integriert wird, ist der https://github.com/q-u-o-s-a/fallout-grabber/blob/master/app/Http/Controllers/AbstractController.php des Fallout-Grabbers.
 
