@@ -20,3 +20,6 @@ webpage-clone/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Deploy script — holds FTP credentials in plaintext. Never commit.
+ftp-deploy.php
