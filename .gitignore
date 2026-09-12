@@ -1,0 +1,22 @@
+# Database dumps
+# These contain wp_users: password hashes and email addresses for every
+# account, including the 31 rogue admins created during the compromise.
+# Keep them local; never publish them.
+*.sql
+*.sql.gz
+*.sql.zip
+
+# Full site clone / webroot snapshots (~2.9 GB, and contains the
+# compromised WordPress install, webshells included). Local forensics
+# material, not repository content.
+webpage-clone/
+*.zip
+
+# JetBrains
+.idea/
+*.iml
+
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
