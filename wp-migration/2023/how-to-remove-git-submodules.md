@@ -1,3 +1,11 @@
+## How to remove git submodules?
+
+von gRoot
+
+am 2023-01-01
+
+in DevOps
+
 When it comes to managing Git submodules, understanding the `init` and `deinit` commands is crucial. In this guide, we'll walk you through the process with some handy tips and commands:
 
 1. Deinitialize All Submodules:  
@@ -36,3 +44,5 @@ If you wish to replace the removed submodule with its corresponding files, follo
 Finally, remember to push your changes to the remote repository, and when pulling changes, do so with caution to avoid potential conflicts.
 
 By following these steps, you can effectively remove Git submodules and manage your repository with confidence.
+
+tag bash git

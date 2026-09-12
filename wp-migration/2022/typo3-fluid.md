@@ -1,3 +1,11 @@
+## Typo3 Fluid
+
+von gRoot
+
+am 2022-05-01
+
+in Entwicklung
+
 Das Typo3 CMS verwendet Fluid als Template Engine. Diese Engine kann einfach auch in anderen PHP standalone Projekten verwendet werden. Warum sollte man das machen?
 - Ermöglicht einen Migrationspfad zum Typo3 CMS
 - Es ermöglicht das wiederverwenden von Fluid Templates in eigenen Projekten.
@@ -34,3 +42,5 @@ Es müssen noch verschiedene Pfade gesetzt werden. Außerdem sind bestimmte Dire
 Eine Php Beispiel-Klasse in dem Typo3/Fluid in einer standalone Umgebung integriert wird, ist der https://github.com/q-u-o-s-a/fallout-grabber/blob/master/app/Http/Controllers/AbstractController.php des Fallout-Grabbers.
 
 Weitere Informationen findet man unter: Typo3 Docs: FluidTemplates https://docs.typo3.org/m/typo3/tutorial-sitepackage/main/en-us/FluidTemplates/Index.html
+
+tag composer fluid Github php typo3

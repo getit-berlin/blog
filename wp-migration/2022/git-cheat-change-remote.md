@@ -1,3 +1,11 @@
+## Git Cheat: change remote
+
+von gRoot
+
+am 2022-10-01
+
+in DevOps
+
 Hier ein Codeschnipsel zum Wechseln des GIT Servers/Remote Repo: 
 
 `git remote rename origin old-origin`  
@@ -12,3 +20,5 @@ falls das nicht funktioniert, dann kann es an der Verbindung zum GIT Server lieg
  `~./ssh keys`
 
 Hier findet man die offiziele man-page: https://git-scm.com/docs/git-remote
+
+tag bash git ssh
