@@ -22,4 +22,4 @@ To enable fast, flexible and secure distribution of TMs for translators we use a
 
 OmniOS with Napp-IT is a greate alternative to enterprise SDS solutions like NexentaStor (nevertheless, both have there usecases).
 
-tag Computer-assisted translation nexentastor OmniOS OpenSDS SDLTM SDS Software defined Storage translation ZFS
+tag Computer-assisted-translation nexentastor OmniOS OpenSDS SDLTM SDS Software-defined-Storage translation ZFS

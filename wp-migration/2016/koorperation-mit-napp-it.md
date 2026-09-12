@@ -18,4 +18,4 @@ https://napp-it.org/distribution/consulting.html
 
 ![Screenshot napp-it management GUI](IMG_1933.png)
 
-tag consulting Napp-it OmniOS Software defined Storage ZFS
+tag consulting Napp-it OmniOS Software-defined-Storage ZFS

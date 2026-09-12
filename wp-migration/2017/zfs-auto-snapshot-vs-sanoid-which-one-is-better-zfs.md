@@ -14,4 +14,4 @@ Und wieder eine interessante Frage in Verbindung mit sanoid.
 
 Es ist wohl Zeit, endlich auch mal einen genaueren Blick darauf zu werfen.
 
-tag sanoid Software defined Storage ZFS zpool
+tag sanoid Software-defined-Storage ZFS zpool

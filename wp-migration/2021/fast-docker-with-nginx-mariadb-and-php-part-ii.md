@@ -83,4 +83,4 @@ Die Datei **opcache.ini** wird für den opcache gebraucht.
 
 Das gesamte Projekt befindet hier auf https://github.com/getit-berlin/fast-docker-php-template
 
-tag apcu composer docker Docker Desktop docker-compose.yaml git imagemagick opcache php wget zip
+tag apcu composer docker Docker-Desktop docker-compose.yaml git imagemagick opcache php wget zip

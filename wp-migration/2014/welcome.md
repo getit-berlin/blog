@@ -8,4 +8,4 @@ in Über uns
 
 Willkommen bei Getit-Berlin und unserer neuen Internetpräsenz.
 
-tag About us
+tag About-us

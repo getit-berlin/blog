@@ -44,4 +44,4 @@ DB_COLLATION=utf8mb4_unicode_ci
 
 Die Datenbank ist vom Host unter dem dem Port: **3306 und dem localhost** erreichbar. Innerhalb der Docker-Container ist die Datenbank unter dem Host **deployment-db-2** erreichbar.
 
-tag docker Docker Desktop docker-compose.yaml MariaDB nginx php
+tag docker Docker-Desktop docker-compose.yaml MariaDB nginx php

@@ -24,4 +24,4 @@ napp-it 16.08 pro edition
 
 Link to napp-it [changelog](http://www.napp-it.org/downloads/changelog_en.html)
 
-tag cluster HA High Availability Napp-it nexentastor OmniOS ZFS
+tag cluster HA High-Availability Napp-it nexentastor OmniOS ZFS

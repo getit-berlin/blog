@@ -12,4 +12,4 @@ Quelle: _[Don't let "Your unqualified host name" to get on your nerves (Sunny Af
 
 Wie wird man diese Meldung: "Your unqualified host name" wieder los? A & O ist ein sinnvoller `/etc/inet/hosts` Eintrag.
 
-tag FQDN server Software defined Storage solaris
+tag FQDN server Software-defined-Storage solaris

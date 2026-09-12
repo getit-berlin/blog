@@ -50,4 +50,4 @@ Das entsprechende Github Projekt kann man unter https://github.com/atmoz/sftp fi
 
 Das gesamte Projekt befindet hier auf https://github.com/getit-berlin/fast-docker-php-template
 
-tag atmoz/sftp docker Docker Desktop docker-compose.yaml Github scp sftp
+tag atmoz/sftp docker Docker-Desktop docker-compose.yaml Github scp sftp

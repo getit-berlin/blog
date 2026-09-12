@@ -31,4 +31,4 @@ Memory size: 512 Megabytes
 
 Dank an reddit: https://www.reddit.com/r/zfs/
 
-tag OmniOS server Software defined Storage ZFS
+tag OmniOS server Software-defined-Storage ZFS

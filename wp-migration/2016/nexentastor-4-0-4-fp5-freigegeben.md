@@ -18,4 +18,4 @@ Wie auf NexentaStor 4.0.4 FP5 sicher upgraden? => CALL ME 😉*
 
 _*(Zstor GmbH Kunden werden priotisiert und in Zusammenarbeit mit ZStor bedient;))_
 
-tag nexenta nexentastor SDS ZFS Zstor GmbH
+tag nexenta nexentastor SDS ZFS Zstor-GmbH

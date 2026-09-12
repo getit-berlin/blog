@@ -12,4 +12,4 @@ In der Dezember Ausgabe haben wir eine Anzeige zu dem Thema Storage und Projetex
 
 Hier kann man die Digitale Version der Zeitschrift einsehen: http://www.bdue-fachverlag.de/fachverlag/detail_fachzeitschrift
 
-tag BDÜ Computer-assisted translation Projetex translation Übersetzen
+tag BDÜ Computer-assisted-translation Projetex translation Übersetzen

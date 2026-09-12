@@ -18,4 +18,4 @@ OmniOS_Text_r151018**.usb-dd** (MD5: 55f70b39ac031b52b10cca12f4701cd1)
 
 Achtung nicht die ISO sondern das dd - file.
 
-tag HDDRawCopy1.10Portable.exe OmniOS USB Stick
+tag HDDRawCopy1.10Portable.exe OmniOS USB-Stick
